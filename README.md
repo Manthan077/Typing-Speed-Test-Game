@@ -2,6 +2,8 @@
 
 A fast, responsive typing speed test game built with *React, **TypeScript, **Tailwind CSS, and **Vite. It calculates **Words Per Minute (WPM), detects **real-time typing mistakes*, and provides feedback to help users improve typing accuracy and speed.
 
+🎮 **Live Demo:** (https://typeforge.netlify.app/)
+
 ---
 
 ## 🚀 Features
@@ -11,7 +13,6 @@ A fast, responsive typing speed test game built with *React, **TypeScript, **Tai
 - ⏱ Timer-based and endless typing modes
 - 🔤 Random word generation using a Trie data structure
 - 🖥 Responsive and clean UI for desktop and mobile
-- 🌐 Live demo deployed with Netlify
 
 ---
 
